@@ -23,7 +23,7 @@ A clean, elegant Pomodoro timer application to boost your productivity with focu
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/mgakman/pomodoro.git
 cd pomodoro
 ```
 
