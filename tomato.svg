@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <!-- Tomato body -->
+    <circle cx="50" cy="52" r="40" fill="#FF6B6B"/>
+    
+    <!-- Stem and leaf -->
+    <path d="M50 12 L50 25" stroke="#2D3436" stroke-width="3" stroke-linecap="round"/>
+    <path d="M50 15 Q60 15 65 10" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Eyes -->
+    <circle cx="35" cy="45" r="5" fill="#2D3436"/>
+    <circle cx="65" cy="45" r="5" fill="#2D3436"/>
+    
+    <!-- Smile -->
+    <path d="M40 60 Q50 70 60 60" fill="none" stroke="#2D3436" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Blush -->
+    <circle cx="30" cy="55" r="4" fill="#FF9999" opacity="0.5"/>
+    <circle cx="70" cy="55" r="4" fill="#FF9999" opacity="0.5"/>
+</svg> 
